@@ -105,7 +105,7 @@
         <section class="hero-section">
             <!-- Tombol Kembali di kanan atas -->
             <div style="display: flex; justify-content: flex-end; margin-bottom: 20px;">
-                <a href="../index.html" style="
+                <a href="../index.php" style="
                     background-color: #e85b5b;
                     color: white;
                     padding: 8px 16px;

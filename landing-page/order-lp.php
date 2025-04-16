@@ -92,7 +92,7 @@
         <h1>Form Pemesanan</h1>
         <nav>
             <ul>
-                <li><a href="/alyza_art_website/index.html">Beranda</a></li>
+                <li><a href="/alyza_art_website/index.php">Beranda</a></li>
                 <li><a href="harga-lp.php">Harga</a></li>
                 <li><a href="order-lp.php" class="active">Pesan Sekarang</a></li>
                 <li><a href="tabel_login.php">Login</a></li>

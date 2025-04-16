@@ -37,7 +37,7 @@ if (isset($valid_users[$username]) &&
     header("Location: " . $valid_users[$username]['redirect']);
     exit();
 } else {
-    header("Location: /alyza_art_website/index.html?error=invalid_credentials");
+    header("Location: /alyza_art_website/index.php?error=invalid_credentials");
     exit();
 }
 ?>

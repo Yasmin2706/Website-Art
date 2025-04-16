@@ -6,7 +6,7 @@ $currentPath = $_SERVER['REQUEST_URI'];
 
 // Daftar halaman yang boleh diakses tanpa login
 $halaman_bebas_login = [
-    '/alyza_art_website/landing-page/index.html'
+    '/alyza_art_website/landing-page/index.php'
 ];
 
 // Kalau bukan halaman bebas login, baru cek login
